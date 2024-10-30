@@ -8,3 +8,6 @@ The server-side console accepts one parameter: the port number.
 The client-side console accepts 3 parameters as a single string: the Client's name, the port number, the connection period in seconds
 
 The example of usage is shown in the below video
+
+https://github.com/user-attachments/assets/30e693f9-81fd-457f-a90d-e58a06eb1be4
+
