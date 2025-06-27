@@ -1,6 +1,4 @@
-# A simple console-type TCP written in C++, for connecting clients and server via a Linux socket
-
-This app allows to establish connection between clients and a server, and send and receive message between clients and a server.
+Establish connection between clients and a server, and send and receive message between clients and a server.
 Messages sent by a client via the console will be displayed on the server console.
 Then, the server processes such a message, and saves such a formetted message in a log file, and echoes the original message beck to the client.
 
